@@ -23,12 +23,7 @@ const Header: React.FC = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2">
-            <img 
-              src="/img/WhatsApp Image 2025-08-01 at 16.09.04.jpeg" 
-              alt="ALANSIDE Logo" 
-              className="h-16 w-auto" 
-            />
-            <span className="text-xl font-bold text-gray-900 hidden sm:inline-block"></span>
+            <span className="text-xl font-bold text-gray-900">Nairobi Top Real Estate</span>
           </Link>
 
           {/* Desktop Navigation */}

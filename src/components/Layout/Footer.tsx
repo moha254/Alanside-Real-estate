@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Home className="h-8 w-8 text-yellow-500" />
-              <span className="text-xl font-bold">ALANSIDE</span>
+              <span className="text-xl font-bold">Nairobi Top Real Estate</span>
             </div>
             <p className="text-gray-300 text-sm leading-relaxed">
               Your trusted partner in finding the perfect property. We specialize in luxury homes, 
@@ -116,7 +116,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400 text-sm">
-            © 2024 ALANSIDE. All rights reserved. | Privacy Policy | Terms of Service
+            © 2024 Nairobi Top Real Estate. All rights reserved. | Privacy Policy | Terms of Service
           </p>
         </div>
       </div>
